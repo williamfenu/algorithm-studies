@@ -1,2 +1,5 @@
 # algorithm-studies
-algorithms made by me while I've reading the book: "Grokking Algorithms" (https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230)
+Algorithms made by me while I was reading the book: "Grokking Algorithms" (https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230).
+
+# How it works
+Inside each folder, you'll find an algorithm according to the folder title. The algorithms are going to be pushed as I finish each chapter and implement them due to practice.
