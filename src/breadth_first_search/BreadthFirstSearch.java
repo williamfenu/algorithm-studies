@@ -1,4 +1,4 @@
-package breadth_firsts_earch;
+package breadth_first_search;
 
 import java.util.ArrayList;
 import java.util.Arrays;
